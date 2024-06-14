@@ -1,10 +1,10 @@
 export const Bio = {
   name: "Faraz Ahmad",
   roles: [
-    "Full Stack Developer",
-    "Frontend Developer",
-    "Backend Developer",
-    "Programmer",
+    "Data Analyst",
+    "Business Analyst",
+    // "Backend Developer",
+    // "Programmer",
   ],
   description:
     "Innovative Problem Solver with Expertise in Java, JavaScript, and Spring Boot, Passionate About Creating Impactful Solutions in Dynamic Environments. Committed to delivering efficient and user-friendly solutions.",
