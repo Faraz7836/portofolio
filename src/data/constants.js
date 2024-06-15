@@ -211,7 +211,7 @@ export const education = [
     school: "MDS Inter College",
     date: "Apr 2017",
     grade: "70%",
-    desc: "I completed my class 12 education at Gyan Sthaly Public School, Dankuni, where I studied Science with Computer Application.",
+    desc: "I completed my class 12 education at MDS Inter College,Najibabad, where I was a student of science stream.",
     degree: "UP Board(XII), Science with Computer",
   },
 ];
