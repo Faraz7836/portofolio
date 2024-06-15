@@ -10,11 +10,12 @@ export const Bio = {
     "Innovative Problem Solver with Expertise in Java, JavaScript, and Spring Boot, Passionate About Creating Impactful Solutions in Dynamic Environments. Committed to delivering efficient and user-friendly solutions.",
   github: "https://www.linkedin.com/in/cadt14/",
   resume:
-    "https://drive.google.com/file/d/1aSi65X4Td6oSy21LW-EQJ3Wf7tf0Kzrl/view?usp=sharing",
-  linkedin: "https://www.linkedin.com/in/cadt14/",
+    "https://drive.google.com/file/d/15rEHe2dltfBFZ2u6wXX-R0QVgrHFZ3g3/view?usp=drive_link",
+  // "https://drive.google.com/file/d/1aSi65X4Td6oSy21LW-EQJ3Wf7tf0Kzrl/view?usp=sharing",
+  linkedin: "https://www.linkedin.com/in/farazahmad7836/",
   twitter: "https://x.com/Ajay22661155",
   insta: "https://www.instagram.com/cadt14?igsh=MXF1M2R5ZzJycnJldA==",
-  facebook: "https://www.facebook.com/profile.php?id=100067136065935",
+  // facebook: "https://www.facebook.com/profile.php?id=100067136065935",
 };
 
 export const skills = [
