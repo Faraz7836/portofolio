@@ -7,7 +7,7 @@ export const Bio = {
     // "Programmer",
   ],
   description:
-    "Innovative Problem Solver with Expertise in Java, JavaScript, and Spring Boot, Passionate About Creating Impactful Solutions in Dynamic Environments. Committed to delivering efficient and user-friendly solutions.",
+    "Data Analyst with 6 months of experience in data collection, analysis, and interpretation to support business decisionmaking. Skilled in Python, SQL, data visualization (Tableau, Power BI), and statistical analysis.",
   github: "https://www.linkedin.com/in/cadt14/",
   resume:
     "https://drive.google.com/file/d/15rEHe2dltfBFZ2u6wXX-R0QVgrHFZ3g3/view?usp=drive_link",
