@@ -198,7 +198,8 @@ export const experiences = [
 export const education = [
   {
     id: 0,
-    img: "src/images/college logo.png",
+    img: "https://www.facebook.com/photo/?fbid=639611481526346&set=a.639611388193022",
+    // "src/images/college logo.png",
     //  "https://www.iimtindia.net/images/logo.png",
     school: "IIMT COLLEGE OF ENGINEERING, GREATER NOIDA",
     date: "Apr 2019 - Apr 2023",
