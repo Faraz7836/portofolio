@@ -8,14 +8,14 @@ export const Bio = {
   ],
   description:
     "Data Analyst with 6 months of experience in data collection, analysis, and interpretation to support business decisionmaking. Skilled in Python, SQL, data visualization (Tableau, Power BI), and statistical analysis.",
-  github: "https://www.linkedin.com/in/cadt14/",
+  github: "https://github.com/Faraz7836",
   resume:
     "https://drive.google.com/file/d/15rEHe2dltfBFZ2u6wXX-R0QVgrHFZ3g3/view?usp=drive_link",
-  // "https://drive.google.com/file/d/1aSi65X4Td6oSy21LW-EQJ3Wf7tf0Kzrl/view?usp=sharing",
+
   linkedin: "https://www.linkedin.com/in/farazahmad7836/",
-  twitter: "https://x.com/Ajay22661155",
-  insta: "https://www.instagram.com/cadt14?igsh=MXF1M2R5ZzJycnJldA==",
-  // facebook: "https://www.facebook.com/profile.php?id=100067136065935",
+  twitter: "https://www.instagram.com/data_analytics_with_farry/",
+  insta: "https://www.instagram.com/data_analytics_with_farry/",
+  facebook: "https://www.instagram.com/data_analytics_with_farry/",
 };
 
 //  skills
@@ -61,7 +61,7 @@ export const skills = [
       {
         name: "Power Bi",
         image:
-          "https://raw.githubusercontent.com/Faraz7836/portofolio/815f102028edabaf2a086371d8fd1151d6b6b5e6/src/images/power-bi.svg",
+          "https://images.datacamp.com/image/upload/v1714478776/re388xshtgihucfiiavf.png",
       },
       {
         name: "Data Analytics",
@@ -180,53 +180,31 @@ export const skills = [
 export const experiences = [
   {
     id: 0,
-    img: "https://assets-global.website-files.com/5e1619901cfa6939ae0e8b3d/5e95f9a9f557905b27223d35_Brenolabs.png",
-    role: "Associate Software Engineer",
-    company: "Brenolabs Pvt. Ltd.",
-    date: "September, 2023 -Present",
-    desc: "I led the 'Spring-Boot & ReactJS' full-stack project, taking the lead in solving problems. Working closely with my team, we fixed issues and made improvements, boosting application functionality and usability by 25%.",
-    skills: [
-      "Spring Boot",
-      "React JS",
-      "Java",
-      "MySQL",
-      "Git",
-      "GitHub",
-      "JavaScript",
-      "Express JS",
-      "Node Js",
-      "Mongoose",
-    ],
+    img: "https://media.licdn.com/dms/image/D4D16AQH4BLSBTmpEnA/profile-displaybackgroundimage-shrink_200_800/0/1690637408566?e=2147483647&v=beta&t=-vUwudUNmc1JvV1KGeQOEmQ-vTZap0501bFbDzS4nUk",
+    role: "Business Analyst",
+    company: "All 4 One  Pvt. Ltd.",
+    date: "September, 2023 - March 2024",
+    desc: "Analyzed event performance metrics, resulting in a 15% increase in client satisfaction.Developed and maintained SQL databases to track  attendance, revenue,and customer feedback.Collaborated with marketing and sales teams to refine strategies based on data-driven insights, enhancing future event planning.",
+    skills: ["Python", "Sql", "Power Bi", "MySQL", "Excel"],
   },
   {
     id: 1,
-    img: "https://appilary.com/appilary/assets/img/logo/logo-white.png",
-    role: "Software Engineer Intern",
-    company: "Appilary Technologies",
-    date: "June 2023 - September 2023",
-    desc: "Mastered Java, MySQL, and ReactJS, executing a full-stack project on a bookstore management system, showcasing expertise and gaining practical experience.",
-    skills: [
-      "Java",
-      "Spring-boot",
-      "React JS",
-      "Material UI",
-      "HTML",
-      "CSS",
-      "JavaScript",
-      "MySQL",
-      "Git",
-      "Bootstrap",
-    ],
+    img: "https://w7.pngwing.com/pngs/216/18/png-transparent-kpmg-logo-thumbnail.png",
+    role: "Data Analyst Intern",
+    company: "KPMG",
+    date: "March 2023 - July 2023",
+    desc: "Identified trends and correlations within datasets, providing actionable insights forbusiness strategies.Created interactive dashboards using Tableau and Power BI, improving data visibility forproject stakeholders., showcasing expertise and gaining practical experience.",
+    skills: ["Python", "MySQL", "Power Bi", "Excel", "Tableau", "Git"],
   },
-  {
-    id: 2,
-    img: "https://www.tcs.com/content/dam/global-tcs/en/images/home/tcs-logo-1.svg",
-    role: "Web - Developer (Intership)",
-    company: "Tata Consultancy Services",
-    date: "Feb 2023 - May 2023",
-    desc: "Deployed a 'Dry-Cleaner' website, utilizing HTML, CSS, and JavaScript •Leveraged JavaScript functionalities to enhance user engagement, resulting in a 40% increase in appointment bookings via WhatsApp API integration. [URL: https://cadt-indian-dry-cleaner.netlify.app].",
-    skills: ["HTML", "CSS", "JavaScript", "Bootstrap", "WhatsApp API"],
-  },
+  // {
+  //   id: 2,
+  //   img: "https://www.tcs.com/content/dam/global-tcs/en/images/home/tcs-logo-1.svg",
+  //   role: "Web - Developer (Intership)",
+  //   company: "Tata Consultancy Services",
+  //   date: "Feb 2023 - May 2023",
+  //   desc: "Deployed a 'Dry-Cleaner' website, utilizing HTML, CSS, and JavaScript •Leveraged JavaScript functionalities to enhance user engagement, resulting in a 40% increase in appointment bookings via WhatsApp API integration. [URL: https://cadt-indian-dry-cleaner.netlify.app].",
+  //   skills: ["HTML", "CSS", "JavaScript", "Bootstrap", "WhatsApp API"],
+  // },
 ];
 
 // education
