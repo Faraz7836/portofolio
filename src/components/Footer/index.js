@@ -87,7 +87,7 @@ function Footer() {
   return (
     <FooterContainer>
       <FooterWrapper>
-        <Logo>Ajay Singh</Logo>
+        <Logo>Faraz Ahmad</Logo>
         <Nav>
           <NavLink href="#about">About</NavLink>
           <NavLink href="#skills">Skills</NavLink>
@@ -109,7 +109,7 @@ function Footer() {
             <InstagramIcon />
           </SocialMediaIcon>
         </SocialMediaIcons>
-        <Copyright>&copy; 2024 cadt. All rights reserved.</Copyright>
+        <Copyright>&copy; 2024 farry. All rights reserved.</Copyright>
       </FooterWrapper>
     </FooterContainer>
   );
