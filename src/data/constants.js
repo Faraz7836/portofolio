@@ -198,8 +198,7 @@ export const experiences = [
 export const education = [
   {
     id: 0,
-    img: "https://www.google.com/url?sa=i&url=https%3A%2F%2Fmg.agenciametodo.com%2F%3Fq%3Diimt-university-meerut-facebook-hh-3z0Aa7ud&psig=AOvVaw29rG9UWYkGsfP2qb3ZJfxB&ust=1718550925053000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCNCT6p7z3YYDFQAAAAAdAAAAABAX",
-    // "https://www.iimtindia.net/images/logo.png",
+    img: "https://www.iimtindia.net/images/logo.png",
     school: "IIMT COLLEGE OF ENGINEERING, GREATER NOIDA",
     date: "Apr 2019 - Apr 2023",
     grade: "73.2%",
