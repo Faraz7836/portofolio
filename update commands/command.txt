@@ -6,4 +6,5 @@ First change then do save
 Go third option in sidebar of vs code 
 Write massage on top
 Go to the Plus icon and add the file one by one 
-Then commit in the last and everything is done 
+Then commit
+then push in the last and everything is done
