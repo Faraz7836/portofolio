@@ -1,0 +1,9 @@
+Vs code for portfolio
+
+First open to online website use in terminal npm start
+If you want any change in website and you want to update on git 
+First change then do save 
+Go third option in sidebar of vs code 
+Write massage on top
+Go to the Plus icon and add the file one by one 
+Then commit in the last and everything is done 
