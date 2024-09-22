@@ -10,8 +10,8 @@ export const Bio = {
     "Data Analyst with 6 months of experience in data collection, analysis, and interpretation to support business decisionmaking. Skilled in Python, SQL, data visualization (Tableau, Power BI), and statistical analysis.",
   github: "https://github.com/Faraz7836",
   resume:
-    "https://drive.google.com/file/d/15rEHe2dltfBFZ2u6wXX-R0QVgrHFZ3g3/view?usp=drive_link",
-
+    "/Users/farazahmad/Documents/data analyst work/faraz_portfolio_website-main/src/images/faraz-resume.pdf",
+  // "https://drive.google.com/file/d/15rEHe2dltfBFZ2u6wXX-R0QVgrHFZ3g3/view?usp=drive_link",
   linkedin: "https://www.linkedin.com/in/farazahmad7836/",
   twitter: "https://www.instagram.com/data_analytics_with_farry/",
   insta: "https://www.instagram.com/data_analytics_with_farry/",
