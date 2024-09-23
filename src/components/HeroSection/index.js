@@ -11,8 +11,8 @@ import {
   Title,
   Span,
   SubTitle,
-  SocialMediaIcons,
-  SocialMediaIcon,
+  // SocialMediaIcons,
+  // SocialMediaIcon,
   ResumeButton,
 } from "./HeroStyle";
 import HeroImg from "../../images/farazpng.png";
@@ -29,7 +29,8 @@ const HeroSection = () => {
         <HeroInnerContainer>
           <HeroLeftContainer id="Left">
             <Title>
-              Hi, I am <br /> {Bio.name}
+              Hi, My name is
+              <br /> {Bio.name}
             </Title>
             <TextLoop>
               I am a

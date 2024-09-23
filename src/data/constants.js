@@ -10,8 +10,7 @@ export const Bio = {
     "Data Analyst with 6 months of experience in data collection, analysis, and interpretation to support business decisionmaking. Skilled in Python, SQL, data visualization (Tableau, Power BI), and statistical analysis.",
   github: "https://github.com/Faraz7836",
   resume:
-    "/Users/farazahmad/Documents/data analyst work/faraz_portfolio_website-main/src/images/faraz-resume.pdf",
-  // "https://drive.google.com/file/d/15rEHe2dltfBFZ2u6wXX-R0QVgrHFZ3g3/view?usp=drive_link",
+    "https://drive.google.com/file/d/1dulvnDC8fH1vsYCnoBDxZ-BBH2-CyYDZ/view?usp=sharing",
   linkedin: "https://www.linkedin.com/in/farazahmad7836/",
   twitter: "https://www.instagram.com/data_analytics_with_farry/",
   insta: "https://www.instagram.com/data_analytics_with_farry/",
@@ -178,15 +177,15 @@ export const skills = [
 //  experience
 
 export const experiences = [
-  {
-    id: 0,
-    img: "https://media.licdn.com/dms/image/D4D16AQH4BLSBTmpEnA/profile-displaybackgroundimage-shrink_200_800/0/1690637408566?e=2147483647&v=beta&t=-vUwudUNmc1JvV1KGeQOEmQ-vTZap0501bFbDzS4nUk",
-    role: "Business Analyst",
-    company: "All 4 One  Pvt. Ltd.",
-    date: "September, 2023 - March 2024",
-    desc: "Analyzed event performance metrics, resulting in a 15% increase in client satisfaction.Developed and maintained SQL databases to track  attendance, revenue,and customer feedback.Collaborated with marketing and sales teams to refine strategies based on data-driven insights, enhancing future event planning.",
-    skills: ["Python", "Sql", "Power Bi", "MySQL", "Excel"],
-  },
+  // {
+  //   id: 0,
+  //   img: "https://media.licdn.com/dms/image/D4D16AQH4BLSBTmpEnA/profile-displaybackgroundimage-shrink_200_800/0/1690637408566?e=2147483647&v=beta&t=-vUwudUNmc1JvV1KGeQOEmQ-vTZap0501bFbDzS4nUk",
+  //   role: "Business Analyst",
+  //   company: "All 4 One  Pvt. Ltd.",
+  //   date: "September, 2023 - March 2024",
+  //   desc: "Analyzed event performance metrics, resulting in a 15% increase in client satisfaction.Developed and maintained SQL databases to track  attendance, revenue,and customer feedback.Collaborated with marketing and sales teams to refine strategies based on data-driven insights, enhancing future event planning.",
+  //   skills: ["Python", "Sql", "Power Bi", "MySQL", "Excel"],
+  // },
   {
     id: 1,
     img: "https://w7.pngwing.com/pngs/216/18/png-transparent-kpmg-logo-thumbnail.png",
@@ -233,13 +232,20 @@ export const education = [
 export const projects = [
   {
     id: 0,
-    title: "Indian Dry-Cleaner Website",
-    date: "Feb 2023 - May 2023",
+    title: "Reviews_Sentiment Analysis",
+    // date: "Feb 2023 - May 2023",
     description:
-      "Immerse yourself in the seamless experience of our Indian Dry Cleaner website, meticulously crafted with HTML, CSS, and JavaScript. Our stringent adherence to strict CSS principles ensures unparalleled responsiveness across all devices, employing innovative grid and flex layouts. Whether booking appointments or seeking further details, our user-centric design guarantees optimal engagement. Experience convenience redefined as you engage with us for all your dry-cleaning needs.",
+      "Perform sentiment analysis on 14,000 restaurant reviews using Python by cleaning and analyzing text, then apply two different models to achieve 88% accuracy.",
     image:
       "https://github.com/ajaySingh2615/ajay_portfolio_website/blob/main/public/indian-dry.png?raw=true",
-    tags: ["HTML", "CSS", "JavaScript", "Bootstrap", "Git", "GitHub"],
+    tags: [
+      "Pyhton",
+      "Machine Learning Modals",
+      "Numpy",
+      "Pandas",
+      "Git",
+      "GitHub",
+    ],
     category: "web app",
     // github: "https://cadt-indian-dry-cleaner.netlify.app",
     webapp: "https://cadt-indian-dry-cleaner.netlify.app",
@@ -247,7 +253,7 @@ export const projects = [
   {
     id: 1,
     title: "Wanderlust website",
-    date: "May 2023 - Sep 2023",
+    // date: "May 2023 - Sep 2023",
     description:
       "Embark on a journey through cutting-edge Full Stack Development with our meticulously crafted web application. We've seamlessly integrated HTML, CSS, JavaScript, and Bootstrap for a captivating frontend, while Node.js, Express.js, and EJS power our dynamic backend. Our focus on Database Management is unparalleled, leveraging MongoDB and Mongoose for efficient data handling and retrieval. With robust User Authentication and Authorization features, your security is our priority.",
     image:
@@ -267,10 +273,9 @@ export const projects = [
   },
   {
     id: 2,
-    title: "Forkify-My App",
+    title: "Portfolio",
     date: "Oct 2022 - Dec 20222",
-    description:
-      "Welcome to Forkify, your go-to destination for dynamic recipe management, where users effortlessly add, organize, and explore their favorite culinary creations. Crafted with precision using HTML, CSS, Bootstrap, and pure JavaScript, this website offers a seamless blend of functionality and aesthetics. Dive into a world of culinary delights, where every dish is just a click away, thanks to our intuitive search and organization features. Whether you're a novice chef.",
+    description: "Welcome to my Portfolio.",
     image:
       "https://github.com/ajaySingh2615/ajay_portfolio_website/blob/main/public/fokiy.png?raw=true",
     tags: ["HTML", "CSS", "JavaScript", "Git"],
