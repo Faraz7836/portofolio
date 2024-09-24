@@ -1,11 +1,7 @@
 export const Bio = {
   name: "Faraz Ahmad",
-  roles: [
-    "Data Analyst",
-    "Business Analyst",
-    // "Backend Developer",
-    // "Programmer",
-  ],
+  roles: ["Data Analyst", "Business Analyst"],
+
   description:
     "Data Analyst with 6 months of experience in data collection, analysis, and interpretation to support business decisionmaking. Skilled in Python, SQL, data visualization (Tableau, Power BI), and statistical analysis.",
   github: "https://github.com/Faraz7836",
@@ -18,9 +14,9 @@ export const Bio = {
 };
 
 //  skills
+
 export const skills = [
   {
-    // title: "Frontend",
     skills: [
       {
         name: "Python",
@@ -192,27 +188,19 @@ export const experiences = [
     role: "Data Analyst Intern",
     company: "KPMG",
     date: "March 2023 - July 2023",
-    desc: "Identified trends and correlations within datasets, providing actionable insights forbusiness strategies.Created interactive dashboards using Tableau and Power BI, improving data visibility forproject stakeholders., showcasing expertise and gaining practical experience.",
+    desc: "Identified trends and correlations within datasets, providing actionable insights for business strategies.Created interactive dashboards using Tableau and Power BI, improving data visibility for project, showcasing expertise and gaining practical experience.",
     skills: ["Python", "MySQL", "Power Bi", "Excel", "Tableau", "Git"],
   },
-  // {
-  //   id: 2,
-  //   img: "https://www.tcs.com/content/dam/global-tcs/en/images/home/tcs-logo-1.svg",
-  //   role: "Web - Developer (Intership)",
-  //   company: "Tata Consultancy Services",
-  //   date: "Feb 2023 - May 2023",
-  //   desc: "Deployed a 'Dry-Cleaner' website, utilizing HTML, CSS, and JavaScript •Leveraged JavaScript functionalities to enhance user engagement, resulting in a 40% increase in appointment bookings via WhatsApp API integration. [URL: https://cadt-indian-dry-cleaner.netlify.app].",
-  //   skills: ["HTML", "CSS", "JavaScript", "Bootstrap", "WhatsApp API"],
-  // },
 ];
 
 // education
+
 export const education = [
   {
     id: 0,
     img: "https://github.com/Faraz7836/portofolio/blob/main/src/images/college%20logo.png?raw=true",
     school: "IIMT COLLEGE OF ENGINEERING , GREATER NOIDA",
-    date: "Apr 2019 - Apr 2023",
+    date: "August 2019 - September 2023",
     grade: "73.2%",
     desc: "I have completed a Bachelor's degree in Computer Science and Engineering at IIMT College of Engineering, Greater Nodia. I have completed 8 semesters without any backlog in any samester.I have taken courses in Data Structures, Algorithms, Object-Oriented Programming, Database Management Systems, Operating Systems, and Computer Networks, among others.",
     degree: "Bachelor of Technology, Computer Science Engineering",
@@ -221,7 +209,7 @@ export const education = [
     id: 1,
     img: "https://www.zamit.one/ZamitData/Content/Institute/9622/Images/06042018T111604951.png",
     school: "MDS Inter College , Najibabad",
-    date: "Apr 2017",
+    date: "May 2017",
     grade: "70%",
     desc: "I completed my class 12 education at MDS Inter College,Najibabad, where I was a student of science stream.",
     degree: "UP Board(XII), Science with Computer",
@@ -229,6 +217,7 @@ export const education = [
 ];
 
 //  project
+
 export const projects = [
   {
     id: 0,
@@ -237,7 +226,7 @@ export const projects = [
     description:
       "Perform sentiment analysis on 14,000 restaurant reviews using Python by cleaning and analyzing text, then apply two different models to achieve 88% accuracy.",
     image:
-      "https://github.com/ajaySingh2615/ajay_portfolio_website/blob/main/public/indian-dry.png?raw=true",
+      "https://github.com/Faraz7836/portofolio/blob/main/src/images/Screenshot%202024-09-23%20at%2022.43.21%201.png?raw=true",
     tags: [
       "Pyhton",
       "Machine Learning Modals",
@@ -246,9 +235,10 @@ export const projects = [
       "Git",
       "GitHub",
     ],
-    category: "web app",
+    category: "Research Project",
     // github: "https://cadt-indian-dry-cleaner.netlify.app",
-    webapp: "https://cadt-indian-dry-cleaner.netlify.app",
+    webapp:
+      "https://github.com/Faraz7836/Review_Sentiment-Analysis/blob/main/reviews-sentiment-analysis.ipynb",
   },
   {
     id: 1,
@@ -262,15 +252,8 @@ export const projects = [
     category: "web app",
     github: "https://github.com/ajaySingh2615/Full_Stack_Project",
     webapp: "https://node-project-rrgl.onrender.com",
-    // member: [
-    //   {
-    //     name: "Rishav Chanda",
-    //     img: "https://avatars.githubusercontent.com/u/64485885?v=4",
-    //     linkedin: "https://www.linkedin.com/in/rishav-chanda-b89a791b3/",
-    //     github: "https://github.com/rishavchanda/",
-    //   },
-    // ],
   },
+
   {
     id: 2,
     title: "Portfolio",
